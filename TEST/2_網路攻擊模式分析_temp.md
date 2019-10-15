@@ -3,21 +3,23 @@
 
 ```
 ```
-1. John is analyzing strange behavior on computers in his network. He believes there is malware
-on the machines. The symptoms include strange behavior that persists, even if he
-boots the machine to a Linux Live CD. What is the most likely cause?
-A. Ransomware
-B. Boot sector virus
-C. Rootkit
-D. Key logger
+1. John is analyzing分析 strange奇怪的 behavior行為 on computers電腦 in his network網路. He believes認為 there is malware
+on the machines. The symptoms include strange behavior行為 that persists, even甚至 if he
+boots the machine to a Linux Live CD光碟機. What is the most likely cause最有可能的原因?
 
-2. Ahmed is a sales manager with a major insurance company. He has received an email that
-is encouraging him to click on a link and fill out a survey. He is suspicious of the email,
-but it does mention a major insurance association, and that makes him think it might be
-legitimate. Which of the following best describes this attack?
+A. Ransomware勒索軟件
+B. Boot sector virus引導區病毒(系統藏毒)
+C. Rootkit 
+D. Key logger 按鍵記錄器
+
+
+2. Ahmed is a sales manager管理 with a major insurance company保險公司. He has received an email that
+is encouraging鼓勵 him to click on a link鏈結 and fill out a survey填寫調查. He is suspicious of the email,
+but it does mention a major insurance association協會, and that makes him think it might be
+legitimate合法. Which of the following best describes this attack?
 A. Phishing
 B. Social engineering
-C. Spear phishing
+C. Spear phishing 魚叉式攻擊(特定對象)
 D. Trojan horse
 
 3. You are a security administrator for a medium-sized bank. You have discovered a piece of
@@ -38,7 +40,7 @@ C. SQL injection
 D. ARP poisoning
 
 5. Juanita is a network administrator for a small accounting firm. The users on her network
-are complaining of slow connectivity. When she examines the firewall logs, she observes a
+are complaining of slow慢 connectivity連線. When she examines the firewall防火牆 logs日誌, she observes a
 large number of half-open connections. What best describes this attack?
 A. DDoS
 B. SYN flood
@@ -52,9 +54,8 @@ A. Encrypted web traffic
 B. Filtering user input
 C. A firewall
 D. An IDS
-
-7. You are responsible for network security at Acme Company. 
-Users have been reporting that personal data is being stolen when using the wireless network. They all insist they
+7. You are responsible for network security at Acme Company. Users have been reporting
+that personal data is being stolen when using the wireless network. They all insist they
 only connect to the corporate wireless access point (WAP). However, logs for the WAP
 show that these users have not connected to it. Which of the following could best explain
 this situation?
@@ -62,13 +63,12 @@ A. Session hijacking
 B. Clickjacking
 C. Rogue access point
 D. Bluejacking
-
-8. What type of attack depends on the attacker entering JavaScript into a text area that is intended for users to enter text that will be viewed by other users?
+8. What type of attack depends on the attacker entering JavaScript into a text area that is
+intended for users to enter text that will be viewed by other users?
 A. SQL injection
 B. Clickjacking
 C. Cross-site scripting
 D. Bluejacking
-
 9. A sales manager at your company is complaining about slow performance on his computer.
 When you thoroughly investigate the issue, you find spyware on his computer. He
 insists that the only thing he has downloaded recently was a freeware stock trading application.
@@ -77,14 +77,13 @@ A. Logic bomb
 B. Trojan horse
 C. Rootkit
 D. Macro virus
-
-10. Your company outsourced development of an accounting application to a local programming
+10. Your company公司 outsourced外包 development發展of an accounting會計 application應用 to a local programming
 firm. After three months of using the product, one of your accountants accidently
 discovers a way to log in and bypass all security and authentication. What best describes
 this?
-A. Logic bomb
+A. Logic bomb 邏輯炸彈
 B. Trojan horse
-C. Backdoor
+C. Backdoor後門
 D. Rootkit
 
 11. Teresa is the security manager for a mid-sized insurance company. She receives a call
@@ -95,7 +94,6 @@ A. It is a result of social engineering.
 B. The machines all have backdoors.
 C. The machines are bots.
 D. The machines are infected with crypto-viruses.
-
 12. Mike is a network administrator with a small financial services company. He has received
 a popup window that states his files are now encrypted and he must pay .5 bitcoins to get
 them decrypted. He tries to check the files in question, but their extensions have changed,
@@ -104,7 +102,6 @@ A. Mike’s machine has a rootkit.
 B. Mike’s machine has ransomware.
 C. Mike’s machine has a logic bomb.
 D. Mike’s machine has been the target of whaling.
-
 13. Terrance is examining logs for the company e-commerce web server. He discovers a number
 of redirects that cannot be explained. After carefully examining the website, he finds
 some attacker performed a watering hole attack by placing JavaScript in the website and is
@@ -114,14 +111,12 @@ A. An SPI firewall
 B. An active IDS/IPS
 C. Checking buffer boundaries
 D. Checking user input
-
 14. What type of attack is based on sending more data to a target variable than the data can
 actually hold?
 A. Bluesnarfing
 B. Buffer overflow
 C. Bluejacking
 D. DDoS
-
 15. You have been asked to test your company network for security issues. The specific test
 you are conducting involves primarily using automated and semiautomated tools to look
 for known vulnerabilities with the various systems on your network. Which of the following
@@ -133,13 +128,14 @@ D. Security test
 
 16. Jared discovers that attackers have breached his WiFi network. They have gained access
 via the wireless access point (WAP) administrative panel, and have logged on with the
-credentials the WAP shipped with. What best describes this issue?
+credentials
+the WAP shipped with. What best describes this issue?
 A. Default configuration
 B. Race conditions
 C. Failure to patch
 D. Weak encryption
-
-17. Joanne is concerned about social engineering. She is particularly concerned that this technique could be used by an attacker to obtain information about the network, including
+17. Joanne is concerned about social engineering. She is particularly concerned that this technique
+could be used by an attacker to obtain information about the network, including
 possibly even passwords. What countermeasure would be most effective in combating
 social engineering?
 A. SPI firewall
