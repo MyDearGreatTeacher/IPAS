@@ -8,6 +8,15 @@
 使用環境
 
 ```
+## 下載image
+
+```
+Google search: docker hub dvwa 
+```
+```
+下載: docker pull infoslack/dvwa
+啟動: docker run -d -p 80:80 infoslack/dvwa
+```
 ## 啟動image
 ### 
 ```
