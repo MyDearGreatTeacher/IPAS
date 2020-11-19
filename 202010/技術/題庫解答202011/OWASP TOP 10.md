@@ -21,7 +21,7 @@ A10:2017-Insufficient Logging & Monitoring　紀錄與監控不足風險
 
 建議的控制措施為：
 1.使用 Prepared Statements、Stored Procedures
-2.嚴密檢查所有輸入值
+2.嚴密檢查所有輸入值  input validation
 3.控管錯誤訊息僅管理者可以閱讀
 4.使用過濾字串函數過濾非法的字元
 5.控管資料庫及網站使用者帳號權限
