@@ -1,8 +1,33 @@
-#
+# DVWA網站安全實戰
 ```
 
 
 ```
+### 作業: bwapp
+```
+Google search:  docker hub bwapp
+
+Pull image: docker pull feltsecure/owasp-bwapp
+
+Start container: docker run -d -p 80:80 feltsecure/owasp-bwapp
+
+Setup bWAPP: http://localhost/install.php
+
+預設帳號 bee，預設密碼 bug
+```
+```
+Hacking Monks
+https://www.youtube.com/channel/UCkfjJOdB7W7bRishjx-EYmA
+```
+```
+Ethical hacking: Top 10 browser extensions for hacking
+https://securityboulevard.com/2019/12/ethical-hacking-top-10-browser-extensions-for-hacking/
+```
+```
+How to Install Google Chrome on Kali Linux
+https://www.tecmint.com/install-google-chrome-on-kali-linux/
+```
+
 # 1.環境建置
 ```
 使用環境
