@@ -26,6 +26,18 @@ A10:2017-Insufficient Logging & Monitoring　紀錄與監控不足風險
 4.使用過濾字串函數過濾非法的字元
 5.控管資料庫及網站使用者帳號權限
 ```
+```
+command Injection
+```
+```
+SQL Injection
+https://owasp.org/www-community/attacks/SQL_Injection
+```
+
+```
+LDAP Injection
+https://kknews.cc/zh-tw/news/yegpnnb.html
+```
 ### A2:2017-Broken Authentication　無效的身分驗證
 ```
 脆弱的帳戶認證，或採取了不安全的管理機制
