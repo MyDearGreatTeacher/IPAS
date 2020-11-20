@@ -6,3 +6,12 @@ https://ithelp.ithome.com.tw/users/20108446/ironman/3463
 ```
 https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migrated_content
 ```
+
+# 日誌分析
+```
+用工具
+
+寫python
+
+叫 AI
+```
