@@ -11,7 +11,7 @@ https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/migr
 ```
 用工具
 
-寫python
+寫python : https://cloud.tencent.com/developer/information/python%E5%88%86%E6%9E%90%E6%97%A5%E5%BF%97
 
 叫 AI
 ```
